@@ -11,7 +11,7 @@ Built by **Code Titans** at the [ASU Fall Hackathon 2026, Phoenix Hackathon for 
 | Nonprofit | [Coding in Color](https://www.ohack.dev/nonprofit/YIXYdYCoxIZC08uQ5DL3) |
 | Problem statement | [Curriculum & Student Progress Platform (CIC Problem 1)](https://www.ohack.dev/project/d09466fadf1b11f18e63deadc507a848) |
 | Team | [Code Titans](https://www.ohack.dev/hack/fall-2026/team/b392ef8ce05f11f18371deadfb009123) |
-| Demo video | [Watch on YouTube](https://www.youtube.com/watch?v=3aBaBHxBAqw) |
+| Demo video | [Watch on YouTube](https://www.youtube.com/watch?v=4pJpQ0gu-5wEk) |
 
 ## Contents
 [What it does](#what-it-does) · [Using the app](#using-the-app) · [What we built against the brief](#what-we-built-against-the-brief) · [Tech stack](#tech-stack) · [Architecture](#architecture) · [Repository layout](#repository-layout) · [Run it locally](#run-it-locally) · [Configuration](#configuration) · [Deploy](#deploy) · [Security](#security-and-privacy) · [Accessibility](#accessibility) · [Testing](#testing-and-quality) · [Documentation index](#documentation-index) · [Limitations](#known-limitations) · [Team](#team)
